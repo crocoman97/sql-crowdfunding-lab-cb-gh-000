@@ -1,1 +1,1 @@
-CREATE TABLE projects (title TEXT, category TEXT, )
+CREATE TABLE projects (title TEXT, category TEXT, funding_goal TEXT, )
