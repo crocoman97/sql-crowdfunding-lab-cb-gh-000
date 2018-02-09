@@ -1,1 +1,1 @@
-CREATE TABLE projects (title TEXT, )
+CREATE TABLE projects (title TEXT, category TEXT, )
